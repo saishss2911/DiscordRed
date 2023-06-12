@@ -31,7 +31,7 @@ CUSTOMIZABLE BACKGROUND IMAGE AND MAIN COLORS BELOW*
 */
 
 root {
-  --app-background: url("https://przemec.github.io/Novum/assets/images/app.png"); /* main app background image [default: url("https://przemec.github.io/Novum/assets/images/app.png")] */
+  --app-background: url("https://i.ibb.co/wQ1vP9Z/Untitled-design-8.png"); /* main app background image [default: url("https://przemec.github.io/Novum/assets/images/app.png")] */
   --main-color: #992727; /* main color (used mostly in buttons) [default: #992727] */
   --main-color-selected: #aa2f2f; /* [default: #aa2f2f] */
   --main-color-semitransparent: #d4393926; /* [default: #d4393926] */
